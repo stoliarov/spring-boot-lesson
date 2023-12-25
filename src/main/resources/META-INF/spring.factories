@@ -1,0 +1,7 @@
+
+# This file used until Spring Boot 2.7.
+# Since Spring Boot 3.0 we should use file:
+# resources/META-INFO/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports
+
+# Example of using spring.factories until Spring Boot 2.7:
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=ru.hh.spring_boot_lesson.config.MailAutoConfiguration
